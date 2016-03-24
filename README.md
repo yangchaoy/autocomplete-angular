@@ -1,2 +1,4 @@
-# autocomplete-angular
-angular 的autocomplete
+angucomplete
+============
+
+AngularJS Autocomplete Directive
